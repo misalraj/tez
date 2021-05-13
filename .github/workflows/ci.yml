@@ -1,6 +1,8 @@
-name: mkdocs
+name: ci
 on:
   push:
+    branches:
+      - main
 jobs:
   deploy:
     runs-on: ubuntu-latest
