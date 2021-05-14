@@ -1,5 +1,6 @@
 # Tez: a simple pytorch trainer
 
+
 **NOTE: Currently, we are not accepting any pull requests! All PRs will be closed. If you want a feature or something doesn't work, please create an issue.**
 
 tez (तेज़ / تیز) means sharp, fast & active. This is a simple, to-the-point, library to make your pytorch training easy.
