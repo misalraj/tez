@@ -1,5 +1,12 @@
+
 # Tez: a simple pytorch trainer
 
+![PyPI](https://img.shields.io/pypi/v/tez?color=success)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![GitHub license](https://img.shields.io/github/license/Atharva-Phatak/torchflare?color=success)](https://github.com/Atharva-Phatak/torchflare/blob/main/LICENSE)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/tez?color=success)
+
+<br/>
 
 **NOTE: Currently, we are not accepting any pull requests! All PRs will be closed. If you want a feature or something doesn't work, please create an issue.**
 
